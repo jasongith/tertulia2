@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Cafés",
+      "items": [
+        {
+          "name": "Espresso",
+          "description": "Café solo, intenso y aromático",
+          "price": "1.80"
+        },
+        {
+          "name": "Café con Leche",
+          "description": "Espresso suave con leche caliente",
+          "price": "2.20"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Espresso con espuma de leche cremosa",
+          "price": "2.50"
+        },
+        {
+          "name": "Café Cortado",
+          "description": "Espresso con un toque de leche",
+          "price": "1.90"
+        },
+        {
+          "name": "Café Americano",
+          "description": "Espresso alargado con agua caliente",
+          "price": "2.00"
+        },
+        {
+          "name": "Café Latte",
+          "description": "Espresso suave con abundante leche vaporizada",
+          "price": "2.60"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cafés Especiales",
+      "items": [
+        {
+          "name": "Café Bombón",
+          "description": "Espresso con leche condensada",
+          "price": "2.40"
+        },
+        {
+          "name": "Carajillo",
+          "description": "Café con brandy o whisky",
+          "price": "3.20"
+        },
+        {
+          "name": "Café Vienés",
+          "description": "Espresso con nata montada y cacao",
+          "price": "2.80"
+        },
+        {
+          "name": "Mocaccino",
+          "description": "Cappuccino con chocolate y nata",
+          "price": "3.00"
+        },
+        {
+          "name": "Café Irlandés",
+          "description": "Café con whisky irlandés y nata",
+          "price": "4.50"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tés e Infusiones",
+      "items": [
+        {
+          "name": "Té Negro",
+          "description": "Clásico té negro de Ceylon",
+          "price": "2.00"
+        },
+        {
+          "name": "Té Verde",
+          "description": "Delicado té verde japonés",
+          "price": "2.00"
+        },
+        {
+          "name": "Té Rojo Pu-Erh",
+          "description": "Té rojo fermentado con carácter",
+          "price": "2.20"
+        },
+        {
+          "name": "Manzanilla",
+          "description": "Infusión relajante de flores",
+          "price": "1.80"
+        },
+        {
+          "name": "Menta Poleo",
+          "description": "Refrescante infusión digestiva",
+          "price": "1.80"
+        },
+        {
+          "name": "Rooibos",
+          "description": "Té rojo sudafricano sin teína",
+          "price": "2.20"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bebidas Frías",
+      "items": [
+        {
+          "name": "Café con Hielo",
+          "description": "Espresso servido con hielo",
+          "price": "2.20"
+        },
+        {
+          "name": "Café Frappé",
+          "description": "Café batido con hielo y leche",
+          "price": "3.50"
+        },
+        {
+          "name": "Granizado de Café",
+          "description": "Hielo picado con café y nata",
+          "price": "3.20"
+        },
+        {
+          "name": "Té Helado",
+          "description": "Té negro frío con limón",
+          "price": "2.50"
+        },
+        {
+          "name": "Limonada Natural",
+          "description": "Limón recién exprimido con hierbabuena",
+          "price": "2.80"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Zumos Naturales",
+      "items": [
+        {
+          "name": "Zumo de Naranja",
+          "description": "Naranjas recién exprimidas",
+          "price": "3.20"
+        },
+        {
+          "name": "Zumo de Zanahoria",
+          "description": "Zumo natural de zanahoria fresca",
+          "price": "3.50"
+        },
+        {
+          "name": "Zumo Verde Detox",
+          "description": "Manzana, apio, pepino y jengibre",
+          "price": "4.20"
+        },
+        {
+          "name": "Batido de Frutas del Bosque",
+          "description": "Fresas, arándanos y frambuesas",
+          "price": "4.00"
+        },
+        {
+          "name": "Batido Tropical",
+          "description": "Piña, mango y coco",
+          "price": "4.20"
+        }
+      ]
+    }
+  ]
+}
