@@ -5,163 +5,1034 @@
       "title": "Cafés",
       "items": [
         {
-          "name": "Espresso",
-          "description": "Café solo, intenso y aromático",
-          "price": "1.80"
+          "name": "Café Solo",
+          "description": "",
+          "price": "1.60"
         },
         {
-          "name": "Café con Leche",
-          "description": "Espresso suave con leche caliente",
-          "price": "2.20"
-        },
-        {
-          "name": "Cappuccino",
-          "description": "Espresso con espuma de leche cremosa",
-          "price": "2.50"
-        },
-        {
-          "name": "Café Cortado",
-          "description": "Espresso con un toque de leche",
-          "price": "1.90"
-        },
-        {
-          "name": "Café Americano",
-          "description": "Espresso alargado con agua caliente",
-          "price": "2.00"
-        },
-        {
-          "name": "Café Latte",
-          "description": "Espresso suave con abundante leche vaporizada",
-          "price": "2.60"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Cafés Especiales",
-      "items": [
-        {
-          "name": "Café Bombón",
-          "description": "Espresso con leche condensada",
-          "price": "2.40"
-        },
-        {
-          "name": "Carajillo",
-          "description": "Café con brandy o whisky",
-          "price": "3.20"
-        },
-        {
-          "name": "Café Vienés",
-          "description": "Espresso con nata montada y cacao",
+          "name": "Café Solo Doble",
+          "description": "",
           "price": "2.80"
         },
         {
-          "name": "Mocaccino",
-          "description": "Cappuccino con chocolate y nata",
-          "price": "3.00"
+          "name": "Café Cortado",
+          "description": "",
+          "price": "1.60"
+        },
+        {
+          "name": "Café con Leche",
+          "description": "",
+          "price": "1.80"
+        },
+        {
+          "name": "Manchado",
+          "description": "",
+          "price": "1.80"
+        },
+        {
+          "name": "Americano",
+          "description": "",
+          "price": "1.80"
+        },
+        {
+          "name": "Café Bombón",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Carajillo",
+          "description": "",
+          "price": "2.40"
         },
         {
           "name": "Café Irlandés",
-          "description": "Café con whisky irlandés y nata",
-          "price": "4.50"
+          "description": "",
+          "price": "5.00"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "",
+          "price": "2.50"
+        },
+        {
+          "name": "Café Latte",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Café Frappé",
+          "description": "",
+          "price": "4.00"
+        },
+        {
+          "name": "ColaCao",
+          "description": "",
+          "price": "1.80"
         }
       ]
     },
     {
       "id": 3,
-      "title": "Tés e Infusiones",
+      "title": "Tés",
+      "description": "Todos los tés con leche +0,50€",
       "items": [
         {
-          "name": "Té Negro",
-          "description": "Clásico té negro de Ceylon",
-          "price": "2.00"
+          "name": "Té Rojo",
+          "description": "",
+          "price": "1.60"
         },
         {
           "name": "Té Verde",
-          "description": "Delicado té verde japonés",
-          "price": "2.00"
+          "description": "",
+          "price": "1.60"
         },
         {
-          "name": "Té Rojo Pu-Erh",
-          "description": "Té rojo fermentado con carácter",
-          "price": "2.20"
+          "name": "Té Negro",
+          "description": "",
+          "price": "1.60"
         },
         {
-          "name": "Manzanilla",
-          "description": "Infusión relajante de flores",
-          "price": "1.80"
+          "name": "Tila",
+          "description": "",
+          "price": "1.60"
         },
         {
           "name": "Menta Poleo",
-          "description": "Refrescante infusión digestiva",
-          "price": "1.80"
+          "description": "",
+          "price": "1.60"
         },
         {
-          "name": "Rooibos",
-          "description": "Té rojo sudafricano sin teína",
-          "price": "2.20"
+          "name": "Manzanilla",
+          "description": "",
+          "price": "1.60"
         }
       ]
     },
     {
-      "id": 4,
-      "title": "Bebidas Frías",
+      "id": 6,
+      "title": "Cervezas",
       "items": [
         {
-          "name": "Café con Hielo",
-          "description": "Espresso servido con hielo",
-          "price": "2.20"
-        },
-        {
-          "name": "Café Frappé",
-          "description": "Café batido con hielo y leche",
-          "price": "3.50"
-        },
-        {
-          "name": "Granizado de Café",
-          "description": "Hielo picado con café y nata",
-          "price": "3.20"
-        },
-        {
-          "name": "Té Helado",
-          "description": "Té negro frío con limón",
+          "name": "Copa Victoria",
+          "description": "",
           "price": "2.50"
         },
         {
-          "name": "Limonada Natural",
-          "description": "Limón recién exprimido con hierbabuena",
-          "price": "2.80"
+          "name": "Cortada Victoria",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Maceta Victoria",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Pinta Victoria",
+          "description": "",
+          "price": "3.80"
+        },
+        {
+          "name": "Radler",
+          "description": "",
+          "price": "2.50"
+        },
+        {
+          "name": "Victoria 0,0",
+          "description": "",
+          "price": "2.50"
+        },
+        {
+          "name": "Tostada 0,0",
+          "description": "",
+          "price": "2.50"
+        },
+        {
+          "name": "Victoria Diez",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Victoria Tercio",
+          "description": "",
+          "price": "2.50"
+        },
+        {
+          "name": "Guinness",
+          "description": "",
+          "price": "5.00"
+        },
+        {
+          "name": "Sin Gluten",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Voll-Damm",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Tercio Alhambra",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Turia",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Copa Voll-Damm",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Cortada Voll-Damm",
+          "description": "",
+          "price": "2.50"
+        },
+        {
+          "name": "Maceta Voll-Damm",
+          "description": "",
+          "price": "3.50"
+        },
+        {
+          "name": "Pinta Voll-Damm",
+          "description": "",
+          "price": "4.20"
         }
       ]
     },
     {
-      "id": 5,
-      "title": "Zumos Naturales",
+      "id": 7,
+      "title": "Vinos",
       "items": [
         {
-          "name": "Zumo de Naranja",
-          "description": "Naranjas recién exprimidas",
-          "price": "3.20"
+          "name": "Villalúa",
+          "description": "",
+          "price": "3.00"
         },
         {
-          "name": "Zumo de Zanahoria",
-          "description": "Zumo natural de zanahoria fresca",
+          "name": "Semidulce",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Frizzante",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Verdejo",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Rosado",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Rioja",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Ribera",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Cava Pequeño",
+          "description": "",
+          "price": "6.00"
+        },
+        {
+          "name": "Tinto de Verano",
+          "description": "",
+          "price": "3.00"
+        },
+        {
+          "name": "Sangría",
+          "description": "",
+          "price": "6.00"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Cócteles",
+      "items": [
+        {
+          "name": "Aperol Spritz",
+          "description": "",
+          "price": "6.50"
+        },
+        {
+          "name": "Caipiblack",
+          "description": "",
+          "price": "7.00"
+        },
+        {
+          "name": "Caipirinha",
+          "description": "",
+          "price": "7.00"
+        },
+        {
+          "name": "Caipiroska",
+          "description": "",
+          "price": "7.00"
+        },
+        {
+          "name": "Espresso Martini",
+          "description": "",
+          "price": "7.50"
+        },
+        {
+          "name": "Long Island Ice Tea",
+          "description": "",
+          "price": "8.00"
+        },
+        {
+          "name": "Margarita",
+          "description": "",
+          "price": "7.50"
+        },
+        {
+          "name": "Mojito",
+          "description": "",
+          "price": "7.00"
+        },
+        {
+          "name": "Mojito Sabor",
+          "description": "",
+          "price": "7.50"
+        },
+        {
+          "name": "Mojito Sin Alcohol",
+          "description": "",
+          "price": "6.00"
+        },
+        {
+          "name": "Negroni",
+          "description": "",
+          "price": "6.00"
+        },
+        {
+          "name": "Piña Colada",
+          "description": "",
+          "price": "6.00"
+        },
+        {
+          "name": "Piña Colada Sin Alcohol",
+          "description": "",
+          "price": "5.00"
+        },
+        {
+          "name": "Pornstar Martini",
+          "description": "",
+          "price": "7.50"
+        },
+        {
+          "name": "San Francisco Sin Alcohol",
+          "description": "",
+          "price": "5.00"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Refrescos",
+      "items": [
+        {
+          "name": "Coca-Cola",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Coca-Cola Zero",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Coca-Cola Zero Zero",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Fanta Limón",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Fanta Naranja",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Sprite",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Tónica",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Royal Bliss Berry",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Tónica Zero",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Fever-Tree",
+          "description": "",
+          "price": "2.20"
+        },
+        {
+          "name": "Aquarius Naranja",
+          "description": "",
+          "price": "2.40"
+        },
+        {
+          "name": "Aquarius Limón",
+          "description": "",
+          "price": "2.40"
+        },
+        {
+          "name": "Nestea Limón",
+          "description": "",
+          "price": "2.40"
+        },
+        {
+          "name": "Nestea Maracuyá",
+          "description": "",
+          "price": "2.40"
+        },
+        {
+          "name": "Agua",
+          "description": "",
+          "price": "1.50"
+        },
+        {
+          "name": "Agua con Gas",
+          "description": "",
+          "price": "2.20"
+        },
+        {
+          "name": "Zumo Piña",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Zumo Melocotón",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Zumo Naranja",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Batido Vainilla",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Batido Chocolate",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Limonada",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Bitter Kas",
+          "description": "",
+          "price": "2.00"
+        },
+        {
+          "name": "Red Bull",
+          "description": "",
           "price": "3.50"
         },
         {
-          "name": "Zumo Verde Detox",
-          "description": "Manzana, apio, pepino y jengibre",
-          "price": "4.20"
+          "name": "Ginger Ale",
+          "description": "",
+          "price": "2.20"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Alcoholes",
+      "description": "Todo lo combinado con Red Bull o Nestea +1€",
+      "subcategories": [
+        {
+          "id": 1,
+          "title": "Ginebras",
+          "items": [
+            {
+              "name": "Beefeater",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Bombay Sapphire",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Bombay Limón",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Brockmans",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Bulldog",
+              "description": "",
+              "price": "9.00"
+            },
+            {
+              "name": "Citadelle",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Exotica",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "G'Vine",
+              "description": "",
+              "price": "10.00"
+            },
+            {
+              "name": "Gin Mare",
+              "description": "",
+              "price": "10.00"
+            },
+            {
+              "name": "Gordon's",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Hendrick's",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Hendrick's Cavaré",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Hendrick's Floradora",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Hendrick's Lunar",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Hendrick's Neptunia",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Larios",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Larios 12",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Seagram's",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "London Nº1",
+              "description": "",
+              "price": "10.00"
+            },
+            {
+              "name": "Martin Miller's",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Monkey 47",
+              "description": "",
+              "price": "12.00"
+            },
+            {
+              "name": "Nordés",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Puerto de Indias Fresa",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Puerto de Indias Melón",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Puerto de Indias Mora",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Rives",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Roku",
+              "description": "",
+              "price": "9.00"
+            }
+          ]
         },
         {
-          "name": "Batido de Frutas del Bosque",
-          "description": "Fresas, arándanos y frambuesas",
-          "price": "4.00"
+          "id": 2,
+          "title": "Rones",
+          "items": [
+            {
+              "name": "Bacardi",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Barceló",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Barceló Imperial",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Brugal",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Brugal Extra Viejo",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Cacique",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Cacique 500",
+              "description": "",
+              "price": "9.00"
+            },
+            {
+              "name": "Malibú",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Conde de Cuba",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Diplomático",
+              "description": "",
+              "price": "11.00"
+            },
+            {
+              "name": "Havana 7",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Legendario",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Pampero Aniversario",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Arehucas Miel",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Santa Teresa",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Santa Teresa 1796",
+              "description": "",
+              "price": "13.00"
+            },
+            {
+              "name": "Zacapa 23",
+              "description": "",
+              "price": "14.00"
+            },
+            {
+              "name": "Zacapa XO",
+              "description": "",
+              "price": "30.00"
+            }
+          ]
         },
         {
-          "name": "Batido Tropical",
-          "description": "Piña, mango y coco",
-          "price": "4.20"
+          "id": 3,
+          "title": "Whiskys",
+          "items": [
+            {
+              "name": "Ballantine's",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Ballantine's 10",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Johnnie Walker Black Label",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Johnnie Walker Red Label",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Johnnie Walker Blue Label",
+              "description": "",
+              "price": "40.00"
+            },
+            {
+              "name": "Cardhu",
+              "description": "",
+              "price": "12.00"
+            },
+            {
+              "name": "Chivas Regal 12",
+              "description": "",
+              "price": "9.00"
+            },
+            {
+              "name": "Cutty Sark",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Dewar's White Label",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "DYC 8",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Glenfiddich 12",
+              "description": "",
+              "price": "12.00"
+            },
+            {
+              "name": "Glenfiddich 15",
+              "description": "",
+              "price": "16.00"
+            },
+            {
+              "name": "Glenfiddich 18",
+              "description": "",
+              "price": "28.00"
+            },
+            {
+              "name": "Johnnie Walker Gold Label",
+              "description": "",
+              "price": "10.00"
+            },
+            {
+              "name": "Hibiki",
+              "description": "",
+              "price": "25.00"
+            },
+            {
+              "name": "Jack Daniel's",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Jameson",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "J&B",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Jim Beam",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Lagavulin",
+              "description": "",
+              "price": "20.00"
+            },
+            {
+              "name": "Macallan 12",
+              "description": "",
+              "price": "20.00"
+            },
+            {
+              "name": "Monkey Shoulder",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Talisker",
+              "description": "",
+              "price": "12.00"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Vodkas",
+          "items": [
+            {
+              "name": "Absolut",
+              "description": "",
+              "price": "7.00"
+            },
+            {
+              "name": "Belvedere",
+              "description": "",
+              "price": "10.00"
+            },
+            {
+              "name": "Cîroc",
+              "description": "",
+              "price": "9.00"
+            },
+            {
+              "name": "Grey Goose",
+              "description": "",
+              "price": "9.00"
+            },
+            {
+              "name": "Smirnoff",
+              "description": "",
+              "price": "6.00"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Brandys",
+          "items": [
+            {
+              "name": "Carlos I",
+              "description": "",
+              "price": "8.00"
+            },
+            {
+              "name": "Carlos III",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Magno",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Terry",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Veterano",
+              "description": "",
+              "price": "6.00"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Licores",
+          "items": [
+            {
+              "name": "Amarguiña",
+              "description": "",
+              "price": "4.00"
+            },
+            {
+              "name": "Anís Dulce",
+              "description": "",
+              "price": "4.00"
+            },
+            {
+              "name": "Anís Seco",
+              "description": "",
+              "price": "4.00"
+            },
+            {
+              "name": "Baileys",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Disaronno",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Licor de Hierbas",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Frangelico",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Jägermeister",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Kahlúa",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Limoncello",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Licor 43",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Licor de Manzana",
+              "description": "",
+              "price": "4.50"
+            },
+            {
+              "name": "Licor de Melocotón",
+              "description": "",
+              "price": "4.50"
+            },
+            {
+              "name": "Granadina Sin Alcohol",
+              "description": "",
+              "price": "3.50"
+            },
+            {
+              "name": "Manzana Sin Alcohol",
+              "description": "",
+              "price": "3.50"
+            },
+            {
+              "name": "Melocotón Sin Alcohol",
+              "description": "",
+              "price": "3.50"
+            },
+            {
+              "name": "Mora Sin Alcohol",
+              "description": "",
+              "price": "3.50"
+            },
+            {
+              "name": "Tía María",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Ponche Caballero",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Malibú",
+              "description": "",
+              "price": "6.00"
+            },
+            {
+              "name": "Tequila",
+              "description": "",
+              "price": "6.00"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Aperitivos",
+          "items": [
+            {
+              "name": "Aperol",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Campari",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Martini Rosso",
+              "description": "",
+              "price": "5.00"
+            },
+            {
+              "name": "Martini Blanco",
+              "description": "",
+              "price": "5.00"
+            }
+          ]
         }
       ]
     }

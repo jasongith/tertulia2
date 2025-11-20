@@ -20,7 +20,9 @@ function App() {
                             key={category.id}
                             id={category.id}
                             title={category.title}
+                            description={category.description}
                             items={category.items}
+                            subcategories={category.subcategories}
                             delay={index * 100}
                         />
                     ))}
