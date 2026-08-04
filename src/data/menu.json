@@ -221,37 +221,42 @@
         {
           "name": "Blanco seco",
           "description": "",
-          "price": "3.00"
+          "price": "3.20"
         },
         {
           "name": "Semidulce",
           "description": "",
-          "price": "3.00"
+          "price": "3.20"
         },
         {
           "name": "Frizzante",
           "description": "",
-          "price": "3.00"
+          "price": "3.20"
         },
         {
           "name": "Rosado",
           "description": "",
-          "price": "3.00"
+          "price": "3.20"
         },
         {
           "name": "Rioja",
           "description": "",
-          "price": "3.00"
+          "price": "3.20"
+        },
+        {
+          "name": "Rioja Azpilicueta",
+          "description": "",
+          "price": "4.60"
         },
         {
           "name": "Ribera",
           "description": "",
-          "price": "3.00"
+          "price": "3.20"
         },
         {
-          "name": "Cava Pequeño",
+          "name": "Ribera Protos",
           "description": "",
-          "price": "6.00"
+          "price": "4.60"
         },
         {
           "name": "Tinto de Verano",
@@ -403,22 +408,22 @@
         {
           "name": "Aquarius Naranja",
           "description": "",
-          "price": "2.40"
+          "price": "2.50"
         },
         {
           "name": "Aquarius Limón",
           "description": "",
-          "price": "2.40"
+          "price": "2.50"
         },
         {
           "name": "Nestea Limón",
           "description": "",
-          "price": "2.40"
+          "price": "2.50"
         },
         {
           "name": "Nestea Maracuyá",
           "description": "",
-          "price": "2.40"
+          "price": "2.50"
         },
         {
           "name": "Agua",
@@ -428,7 +433,7 @@
         {
           "name": "Agua con Gas",
           "description": "",
-          "price": "2.20"
+          "price": "2.50"
         },
         {
           "name": "Zumo Piña",
@@ -473,7 +478,7 @@
         {
           "name": "Ginger Ale",
           "description": "",
-          "price": "2.20"
+          "price": "2.00"
         }
       ]
     },
