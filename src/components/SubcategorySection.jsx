@@ -1,10 +1,10 @@
 import React from 'react';
 import MenuItem from './MenuItem';
 
-const SubcategorySection = ({ title, items }) => {
+const SubcategorySection = ({ id, categoryId, title, items }) => {
     return (
-        <div className="mb-8">
-            <h3 className="font-serif text-2xl sm:text-3xl text-tertulia-dark-brown text-center mb-4 sm:mb-6">
+        <div id={`subcategory-${categoryId}-${id}`} className="mb-8 scroll-mt-48">
+            <h3 className="font-serif text-2xl sm:text-3xl text-tertulia-dark-brown text-center mb-4 sm:mb-6 font-bold">
                 {title}
             </h3>
             <div className="grid gap-4 sm:gap-5">

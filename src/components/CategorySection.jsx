@@ -2,6 +2,7 @@ import React from 'react';
 import { Info } from 'lucide-react';
 import MenuItem from './MenuItem';
 import SubcategorySection from './SubcategorySection';
+import AlcoholNav from './AlcoholNav';
 
 const CategorySection = ({ id, title, description, items, subcategories, delay = 0 }) => {
     return (
@@ -43,15 +44,24 @@ const CategorySection = ({ id, title, description, items, subcategories, delay =
 
             {/* Si tiene subcategorías */}
             {subcategories && (
-                <div className="space-y-8 sm:space-y-10">
-                    {subcategories.map((subcategory) => (
-                        <SubcategorySection
-                            key={subcategory.id}
-                            title={subcategory.title}
-                            items={subcategory.items}
-                        />
-                    ))}
-                </div>
+                <>
+                    {/* Navegación especial para Alcoholes */}
+                    {title === "Alcoholes" && (
+                        <AlcoholNav subcategories={subcategories} categoryId={id} />
+                    )}
+
+                    <div className="space-y-8 sm:space-y-10">
+                        {subcategories.map((subcategory) => (
+                            <SubcategorySection
+                                key={subcategory.id}
+                                id={subcategory.id}
+                                categoryId={id}
+                                title={subcategory.title}
+                                items={subcategory.items}
+                            />
+                        ))}
+                    </div>
+                </>
             )}
         </section>
     );

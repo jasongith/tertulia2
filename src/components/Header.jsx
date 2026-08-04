@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import logo from '../assets/images/logo1_no_bg.png';
 
 const Header = () => {
     const [isCompact, setIsCompact] = useState(false);
@@ -21,11 +22,15 @@ const Header = () => {
         <header className="sticky top-0 z-50 bg-gradient-to-b from-tertulia-coffee to-tertulia-dark-brown shadow-lg transition-all duration-300">
             <div className={`max-w-4xl mx-auto px-4 transition-all duration-300 ${isCompact ? 'py-3 sm:py-4' : 'py-6 sm:py-8'
                 }`}>
-                <h1 className={`font-serif text-center text-tertulia-cream tracking-wide transition-all duration-300 ${isCompact ? 'text-2xl sm:text-3xl md:text-4xl' : 'text-4xl sm:text-5xl md:text-6xl'
-                    }`}>
-                    La Tertulia
-                </h1>
-                <p className={`font-sans text-center text-tertulia-tan tracking-widest uppercase transition-all duration-300 ${isCompact ? 'text-xs sm:text-sm mt-1' : 'text-sm sm:text-base mt-2'
+                <div className="flex justify-center items-center">
+                    <img
+                        src={logo}
+                        alt="La Tertulia"
+                        className={`transition-all duration-300 object-contain ${isCompact ? 'h-11 sm:h-12 max-w-[160px] sm:max-w-[190px]' : 'h-18 sm:h-20 max-w-[220px] sm:max-w-[260px]'
+                            }`}
+                    />
+                </div>
+                <p className={`font-sans text-center text-tertulia-tan tracking-widest uppercase transition-all duration-300 ${isCompact ? 'text-xs sm:text-sm mt-0.5' : 'text-sm sm:text-base mt-4'
                     }`}>
                     Carta Digital
                 </p>

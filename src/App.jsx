@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import CategoryNav from './components/CategoryNav';
 import CategorySection from './components/CategorySection';
+import ScrollToTopButton from './components/ScrollToTopButton';
 import menuData from './data/menu.json';
 
 function App() {
@@ -38,6 +39,9 @@ function App() {
                     </p>
                 </footer>
             </main>
+
+            {/* Botón flotante para ir arriba */}
+            <ScrollToTopButton />
         </div>
     );
 }
